@@ -14,6 +14,7 @@ Robust Data Integrity: Enforced a strict Hold-out Raw Data splitting strategy to
 
 Automated QA & Benchmarking: Built a structured evaluation suite to measure critical production metrics, including Inference Latency and Throughput.
 
+
 📊 Experimental Results
 
 The following metrics were captured during the final benchmark execution on unseen raw data:
@@ -41,18 +42,7 @@ Explainable AI (XAI): SHAP (SHapley Additive exPlanations).
 
 Optimization: Genetic Algorithm (Evolutionary Computing).
 
-Performance Testing: Automated Benchmarking Suite.
-
-
-📂 Project StructurePlaintext
-
-├── Datasets/               # Genomic expression data (CSV)
-
-├── .venv/                  # Python 3.12 Virtual Environment
-
-├── Experiment_8.ipynb      # Main End-to-End Pipeline
-
-└── README.md              
+Performance Testing: Automated Benchmarking Suite.  
 
 
 ⚙️ Installation & Usage
@@ -63,4 +53,4 @@ Install dependencies
 
 Hardware Note: GPU acceleration is highly recommended for CatBoost and CNN training.
 
-Execute the pipeline:Open Automated_GA_System.ipynb and run all cells.
+Execute the pipeline: Open Automated_GA_System.ipynb and run all cells.

@@ -1,3 +1,5 @@
+The dataset can be found at the following: https://drive.google.com/file/d/1LFPs_F9nyHhal5GWxk0qlfizxBOE3xwI/view?usp=drive_link
+
 🧬 Genomics Classification with Hybrid GA-CNN Optimization
 
 📌 Project Overview
